@@ -6,7 +6,7 @@ import SwiftUI
 struct concurrency: App {
     var body: some Scene {
         WindowGroup {
-            DownloadImageAsync()
+            TaskBootcampHomeView()
         }
     }
 }
